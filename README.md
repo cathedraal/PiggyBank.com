@@ -8,6 +8,7 @@ A simple digital bank that lets users send, top up, and withdraw money. It’s d
 - Add money, transfer funds and withdraw balance
 - Email notifications for transfers via EmailJS
 - Transaction history with timestamps
+- Articles
 - Multi-currency support (USD, EUR, GBP)
 - Responsive design
 
