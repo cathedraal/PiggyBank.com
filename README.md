@@ -4,8 +4,9 @@ A simple digital bank that lets users send, top up, and withdraw money. It’s d
 ## Features
 
 - User registration with real-time form validation
-- Add and manage bank cards (debit, credit, virtual)
+- Add and manage bank cards (debit, credit, virtual, etc.)
 - Add money, transfer funds and withdraw balance
+- View profile, delete/add cards
 - Email notifications for transfers via EmailJS
 - Transaction history with timestamps
 - Articles
@@ -15,7 +16,7 @@ A simple digital bank that lets users send, top up, and withdraw money. It’s d
 ## Tech Stack
 
 - Vanilla JavaScript (ES6+)
-- OOP — 3 classes: User, Card, Action
+- OOP with 3 classes: User, Card, Action
 - CSS3
 - EmailJS API
 - Modular architecture (ES Modules)
